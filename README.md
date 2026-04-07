@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm SAYED AMIN
+# I'm SAYED AMIN
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Backend+Developer+%F0%9F%90%8D;REST+API+Developer+%F0%9F%94%97;Jr.+Cloud+Engineer+%E2%98%81%EF%B8%8F;Focusing+on+Execution+%F0%9F%9A%80" alt="Typing SVG" />
@@ -35,10 +35,10 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shazam-del&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" width="48%" />
 
 <!-- Streak Stats - using demolab mirror (more reliable than the old herokuapp URL) -->
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6C37&currStreakLabel=00F7FF" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Shazam-del&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6C37&currStreakLabel=00F7FF" width="48%" />
 
 ---
 
